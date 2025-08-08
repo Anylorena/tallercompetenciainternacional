@@ -1,0 +1,347 @@
+[
+  {
+    "_id": {
+      "$oid": "2cd08e3525b28f95aa3ecb4c"
+    },
+    "nombre": "Atleta 1",
+    "nacionalidad": "Colombiano",
+    "edad": 30,
+    "genero": "M",
+    "participaciones": [
+      {
+        "evento_id": {
+          "$oid": "c4ad9396d6694672a92733d5"
+        },
+        "resultado_previo": "Pendiente"
+      },
+      {
+        "evento_id": {
+          "$oid": "1e389691d1d232d2f4da9e18"
+        },
+        "resultado_previo": "Descalificado"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "f1f00bd9cc4acb6340303a8e"
+    },
+    "nombre": "Atleta 2",
+    "nacionalidad": "Alemán",
+    "edad": 32,
+    "genero": "F",
+    "participaciones": [
+      {
+        "evento_id": {
+          "$oid": "f816809f44b85f5d501a246e"
+        },
+        "resultado_previo": "Clasificado"
+      },
+      {
+        "evento_id": {
+          "$oid": "520939ea9757c183385eb76b"
+        },
+        "resultado_previo": "Pendiente"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "0ffa8a55ab60da65de960f4a"
+    },
+    "nombre": "Atleta 3",
+    "nacionalidad": "Español",
+    "edad": 28,
+    "genero": "F",
+    "participaciones": [
+      {
+        "evento_id": {
+          "$oid": "6bc187e2360dbf6857978e91"
+        },
+        "resultado_previo": "Clasificado"
+      },
+      {
+        "evento_id": {
+          "$oid": "1e389691d1d232d2f4da9e18"
+        },
+        "resultado_previo": "Pendiente"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "93c944288a1b14d6d539724f"
+    },
+    "nombre": "Atleta 4",
+    "nacionalidad": "Francés",
+    "edad": 25,
+    "genero": "F",
+    "participaciones": [
+      {
+        "evento_id": {
+          "$oid": "6bc187e2360dbf6857978e91"
+        },
+        "resultado_previo": "Descalificado"
+      },
+      {
+        "evento_id": {
+          "$oid": "0d0797c541aefece9fc3c46a"
+        },
+        "resultado_previo": "Descalificado"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "07eea351c52baced404bfd3f"
+    },
+    "nombre": "Atleta 5",
+    "nacionalidad": "Francés",
+    "edad": 33,
+    "genero": "F",
+    "participaciones": [
+      {
+        "evento_id": {
+          "$oid": "0d0797c541aefece9fc3c46a"
+        },
+        "resultado_previo": "Clasificado"
+      },
+      {
+        "evento_id": {
+          "$oid": "1e389691d1d232d2f4da9e18"
+        },
+        "resultado_previo": "Clasificado"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "387c022898b63c3e8f6c9cb2"
+    },
+    "nombre": "Atleta 6",
+    "nacionalidad": "Canadiense",
+    "edad": 18,
+    "genero": "F",
+    "participaciones": [
+      {
+        "evento_id": {
+          "$oid": "1e389691d1d232d2f4da9e18"
+        },
+        "resultado_previo": "Clasificado"
+      },
+      {
+        "evento_id": {
+          "$oid": "4c5a3152645d423f1ad7487a"
+        },
+        "resultado_previo": "Clasificado"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "e420b2e78ced4925b85b4c33"
+    },
+    "nombre": "Atleta 7",
+    "nacionalidad": "Colombiano",
+    "edad": 23,
+    "genero": "F",
+    "participaciones": [
+      {
+        "evento_id": {
+          "$oid": "72184f6fc2e3f019e5e8e981"
+        },
+        "resultado_previo": "Clasificado"
+      },
+      {
+        "evento_id": {
+          "$oid": "520939ea9757c183385eb76b"
+        },
+        "resultado_previo": "Pendiente"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "a9806020441d340e754b6407"
+    },
+    "nombre": "Atleta 8",
+    "nacionalidad": "Canadiense",
+    "edad": 22,
+    "genero": "M",
+    "participaciones": [
+      {
+        "evento_id": {
+          "$oid": "c3f8cedc657461b414903a85"
+        },
+        "resultado_previo": "Clasificado"
+      },
+      {
+        "evento_id": {
+          "$oid": "0e322c42cce1731062b1f33f"
+        },
+        "resultado_previo": "Clasificado"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "8ed0b2070bde0b6c2fe9d2fc"
+    },
+    "nombre": "Atleta 9",
+    "nacionalidad": "Alemán",
+    "edad": 32,
+    "genero": "F",
+    "participaciones": [
+      {
+        "evento_id": {
+          "$oid": "6db5f1732d2a3038c6b10138"
+        },
+        "resultado_previo": "Pendiente"
+      },
+      {
+        "evento_id": {
+          "$oid": "72184f6fc2e3f019e5e8e981"
+        },
+        "resultado_previo": "Descalificado"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "ec1138c4ba2bab980cdba0a1"
+    },
+    "nombre": "Atleta 10",
+    "nacionalidad": "Alemán",
+    "edad": 31,
+    "genero": "M",
+    "participaciones": [
+      {
+        "evento_id": {
+          "$oid": "0e322c42cce1731062b1f33f"
+        },
+        "resultado_previo": "Pendiente"
+      },
+      {
+        "evento_id": {
+          "$oid": "c3f8cedc657461b414903a85"
+        },
+        "resultado_previo": "Clasificado"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "018715dacf6fd4aaab7b1cbe"
+    },
+    "nombre": "Atleta 11",
+    "nacionalidad": "Francés",
+    "edad": 23,
+    "genero": "M",
+    "participaciones": [
+      {
+        "evento_id": {
+          "$oid": "98ccdf6856bd17348e6e0eeb"
+        },
+        "resultado_previo": "Clasificado"
+      },
+      {
+        "evento_id": {
+          "$oid": "0d0797c541aefece9fc3c46a"
+        },
+        "resultado_previo": "Descalificado"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "ce2333dd5dfcd9afa759c45f"
+    },
+    "nombre": "Atleta 12",
+    "nacionalidad": "Mexicano",
+    "edad": 21,
+    "genero": "M",
+    "participaciones": [
+      {
+        "evento_id": {
+          "$oid": "6bc187e2360dbf6857978e91"
+        },
+        "resultado_previo": "Descalificado"
+      },
+      {
+        "evento_id": {
+          "$oid": "8134b584eb531a600ea37944"
+        },
+        "resultado_previo": "Descalificado"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5c2b55b98b03a3ddd0d32562"
+    },
+    "nombre": "Atleta 13",
+    "nacionalidad": "Japonés",
+    "edad": 34,
+    "genero": "F",
+    "participaciones": [
+      {
+        "evento_id": {
+          "$oid": "1e389691d1d232d2f4da9e18"
+        },
+        "resultado_previo": "Clasificado"
+      },
+      {
+        "evento_id": {
+          "$oid": "72184f6fc2e3f019e5e8e981"
+        },
+        "resultado_previo": "Clasificado"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "8a876a1c332e05f573fbf433"
+    },
+    "nombre": "Atleta 14",
+    "nacionalidad": "Español",
+    "edad": 29,
+    "genero": "F",
+    "participaciones": [
+      {
+        "evento_id": {
+          "$oid": "520939ea9757c183385eb76b"
+        },
+        "resultado_previo": "Pendiente"
+      },
+      {
+        "evento_id": {
+          "$oid": "c3f8cedc657461b414903a85"
+        },
+        "resultado_previo": "Clasificado"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6ecf90634515ffb0610bd2bd"
+    },
+    "nombre": "Atleta 15",
+    "nacionalidad": "Australiano",
+    "edad": 25,
+    "genero": "F",
+    "participaciones": [
+      {
+        "evento_id": {
+          "$oid": "c4ad9396d6694672a92733d5"
+        },
+        "resultado_previo": "Clasificado"
+      },
+      {
+        "evento_id": {
+          "$oid": "1e389691d1d232d2f4da9e18"
+        },
+        "resultado_previo": "Descalificado"
+      }
+    ]
+  }
+]

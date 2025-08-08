@@ -1,0 +1,197 @@
+[
+  {
+    "_id": {
+      "$oid": "6bc187e2360dbf6857978e91"
+    },
+    "nombre_evento": "Evento 1",
+    "disciplina": "Atletismo",
+    "fecha": {
+      "$date": "2025-08-07T10:00:00Z"
+    },
+    "sede_id": {
+      "$oid": "74aba61f09a00b3bcb1befba"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a75fb10f11fea307fc4d31c2"
+    },
+    "nombre_evento": "Evento 2",
+    "disciplina": "Atletismo",
+    "fecha": {
+      "$date": "2025-08-08T10:00:00Z"
+    },
+    "sede_id": {
+      "$oid": "74aba61f09a00b3bcb1befba"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0e322c42cce1731062b1f33f"
+    },
+    "nombre_evento": "Evento 3",
+    "disciplina": "Atletismo",
+    "fecha": {
+      "$date": "2025-08-09T10:00:00Z"
+    },
+    "sede_id": {
+      "$oid": "74aba61f09a00b3bcb1befba"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8a1da8053703f46665efd7c4"
+    },
+    "nombre_evento": "Evento 4",
+    "disciplina": "Natación",
+    "fecha": {
+      "$date": "2025-08-10T10:00:00Z"
+    },
+    "sede_id": {
+      "$oid": "2aef75aacb264b4a6c7a9fc2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c3f8cedc657461b414903a85"
+    },
+    "nombre_evento": "Evento 5",
+    "disciplina": "Judo",
+    "fecha": {
+      "$date": "2025-08-11T10:00:00Z"
+    },
+    "sede_id": {
+      "$oid": "663c529ea79f3948128934ae"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6db5f1732d2a3038c6b10138"
+    },
+    "nombre_evento": "Evento 6",
+    "disciplina": "Atletismo",
+    "fecha": {
+      "$date": "2025-08-12T10:00:00Z"
+    },
+    "sede_id": {
+      "$oid": "75a3c78168e6ab78490348d5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "98ccdf6856bd17348e6e0eeb"
+    },
+    "nombre_evento": "Evento 7",
+    "disciplina": "Judo",
+    "fecha": {
+      "$date": "2025-08-13T10:00:00Z"
+    },
+    "sede_id": {
+      "$oid": "8c940a02aa666c4eef03be18"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4c5a3152645d423f1ad7487a"
+    },
+    "nombre_evento": "Evento 8",
+    "disciplina": "Judo",
+    "fecha": {
+      "$date": "2025-08-14T10:00:00Z"
+    },
+    "sede_id": {
+      "$oid": "eae2de48390bc37857190597"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8134b584eb531a600ea37944"
+    },
+    "nombre_evento": "Evento 9",
+    "disciplina": "Fútbol",
+    "fecha": {
+      "$date": "2025-08-15T10:00:00Z"
+    },
+    "sede_id": {
+      "$oid": "eef343b30d75284d0c0533fe"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c4ad9396d6694672a92733d5"
+    },
+    "nombre_evento": "Evento 10",
+    "disciplina": "Ciclismo",
+    "fecha": {
+      "$date": "2025-08-16T10:00:00Z"
+    },
+    "sede_id": {
+      "$oid": "eef343b30d75284d0c0533fe"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0d0797c541aefece9fc3c46a"
+    },
+    "nombre_evento": "Evento 11",
+    "disciplina": "Natación",
+    "fecha": {
+      "$date": "2025-08-17T10:00:00Z"
+    },
+    "sede_id": {
+      "$oid": "eef343b30d75284d0c0533fe"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f816809f44b85f5d501a246e"
+    },
+    "nombre_evento": "Evento 12",
+    "disciplina": "Fútbol",
+    "fecha": {
+      "$date": "2025-08-18T10:00:00Z"
+    },
+    "sede_id": {
+      "$oid": "75a3c78168e6ab78490348d5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1e389691d1d232d2f4da9e18"
+    },
+    "nombre_evento": "Evento 13",
+    "disciplina": "Natación",
+    "fecha": {
+      "$date": "2025-08-19T10:00:00Z"
+    },
+    "sede_id": {
+      "$oid": "eef343b30d75284d0c0533fe"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "72184f6fc2e3f019e5e8e981"
+    },
+    "nombre_evento": "Evento 14",
+    "disciplina": "Natación",
+    "fecha": {
+      "$date": "2025-08-20T10:00:00Z"
+    },
+    "sede_id": {
+      "$oid": "a323cc1857db52574dbf4f67"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "520939ea9757c183385eb76b"
+    },
+    "nombre_evento": "Evento 15",
+    "disciplina": "Atletismo",
+    "fecha": {
+      "$date": "2025-08-21T10:00:00Z"
+    },
+    "sede_id": {
+      "$oid": "61d828e5eb62031bb00b5e91"
+    }
+  }
+]

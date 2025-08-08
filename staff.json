@@ -1,0 +1,167 @@
+[
+  {
+    "_id": {
+      "$oid": "3d40e38d248c1f18eee650fe"
+    },
+    "nombre": "Staff 1",
+    "rol": "Juez",
+    "experiencia_anios": 14,
+    "asignado_a": {
+      "$oid": "a323cc1857db52574dbf4f67"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d8b88cede40eda9dfae21534"
+    },
+    "nombre": "Staff 2",
+    "rol": "Coordinador",
+    "experiencia_anios": 4,
+    "asignado_a": {
+      "$oid": "2aef75aacb264b4a6c7a9fc2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b3957e0dcd009d7d978af075"
+    },
+    "nombre": "Staff 3",
+    "rol": "Médico",
+    "experiencia_anios": 11,
+    "asignado_a": {
+      "$oid": "75a3c78168e6ab78490348d5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b90fc0e751403029cbc9d262"
+    },
+    "nombre": "Staff 4",
+    "rol": "Logística",
+    "experiencia_anios": 11,
+    "asignado_a": {
+      "$oid": "74aba61f09a00b3bcb1befba"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "75f93da71290b46213b10fc6"
+    },
+    "nombre": "Staff 5",
+    "rol": "Juez",
+    "experiencia_anios": 10,
+    "asignado_a": {
+      "$oid": "663c529ea79f3948128934ae"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4e1ebee4555b1aba030a94e5"
+    },
+    "nombre": "Staff 6",
+    "rol": "Entrenador",
+    "experiencia_anios": 10,
+    "asignado_a": {
+      "$oid": "75a3c78168e6ab78490348d5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7a19003029a153091dd078f0"
+    },
+    "nombre": "Staff 7",
+    "rol": "Coordinador",
+    "experiencia_anios": 6,
+    "asignado_a": {
+      "$oid": "a323cc1857db52574dbf4f67"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bbfba5c8edf5e3272501955f"
+    },
+    "nombre": "Staff 8",
+    "rol": "Entrenador",
+    "experiencia_anios": 5,
+    "asignado_a": {
+      "$oid": "75a3c78168e6ab78490348d5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "88beda4ff2638657a53ab95f"
+    },
+    "nombre": "Staff 9",
+    "rol": "Entrenador",
+    "experiencia_anios": 9,
+    "asignado_a": {
+      "$oid": "eae2de48390bc37857190597"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a4e5f814dc265f2290237865"
+    },
+    "nombre": "Staff 10",
+    "rol": "Juez",
+    "experiencia_anios": 19,
+    "asignado_a": {
+      "$oid": "eef343b30d75284d0c0533fe"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "38bba2f2d6c961c213315101"
+    },
+    "nombre": "Staff 11",
+    "rol": "Médico",
+    "experiencia_anios": 6,
+    "asignado_a": {
+      "$oid": "a323cc1857db52574dbf4f67"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2b2db8cf9267ff707546e53c"
+    },
+    "nombre": "Staff 12",
+    "rol": "Entrenador",
+    "experiencia_anios": 2,
+    "asignado_a": {
+      "$oid": "0e5d6da8fd1f27d0049f7e09"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a64d0bb2915f5974db8f371f"
+    },
+    "nombre": "Staff 13",
+    "rol": "Entrenador",
+    "experiencia_anios": 17,
+    "asignado_a": {
+      "$oid": "a323cc1857db52574dbf4f67"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "161cb0378dedf16c7299ba1f"
+    },
+    "nombre": "Staff 14",
+    "rol": "Entrenador",
+    "experiencia_anios": 7,
+    "asignado_a": {
+      "$oid": "eef343b30d75284d0c0533fe"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "089b47a653e4dc2aa52b6b6e"
+    },
+    "nombre": "Staff 15",
+    "rol": "Coordinador",
+    "experiencia_anios": 18,
+    "asignado_a": {
+      "$oid": "0e5d6da8fd1f27d0049f7e09"
+    }
+  }
+]

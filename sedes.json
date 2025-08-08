@@ -1,0 +1,102 @@
+[
+  {
+    "_id": {
+      "$oid": "8c940a02aa666c4eef03be18"
+    },
+    "ciudad": "Bogotá",
+    "pais": "Colombia",
+    "capacidad": 28276,
+    "infraestructura": "Alta",
+    "clima": "Templado"
+  },
+  {
+    "_id": {
+      "$oid": "74aba61f09a00b3bcb1befba"
+    },
+    "ciudad": "Madrid",
+    "pais": "España",
+    "capacidad": 27925,
+    "infraestructura": "Baja",
+    "clima": "Frío"
+  },
+  {
+    "_id": {
+      "$oid": "61d828e5eb62031bb00b5e91"
+    },
+    "ciudad": "París",
+    "pais": "Francia",
+    "capacidad": 59285,
+    "infraestructura": "Baja",
+    "clima": "Templado"
+  },
+  {
+    "_id": {
+      "$oid": "75a3c78168e6ab78490348d5"
+    },
+    "ciudad": "Tokio",
+    "pais": "Japón",
+    "capacidad": 41676,
+    "infraestructura": "Baja",
+    "clima": "Cálido"
+  },
+  {
+    "_id": {
+      "$oid": "a323cc1857db52574dbf4f67"
+    },
+    "ciudad": "Sídney",
+    "pais": "Australia",
+    "capacidad": 53505,
+    "infraestructura": "Media",
+    "clima": "Cálido"
+  },
+  {
+    "_id": {
+      "$oid": "0e5d6da8fd1f27d0049f7e09"
+    },
+    "ciudad": "Toronto",
+    "pais": "Canadá",
+    "capacidad": 13982,
+    "infraestructura": "Baja",
+    "clima": "Frío"
+  },
+  {
+    "_id": {
+      "$oid": "2aef75aacb264b4a6c7a9fc2"
+    },
+    "ciudad": "Berlín",
+    "pais": "Alemania",
+    "capacidad": 30545,
+    "infraestructura": "Media",
+    "clima": "Templado"
+  },
+  {
+    "_id": {
+      "$oid": "663c529ea79f3948128934ae"
+    },
+    "ciudad": "Roma",
+    "pais": "Italia",
+    "capacidad": 10497,
+    "infraestructura": "Alta",
+    "clima": "Frío"
+  },
+  {
+    "_id": {
+      "$oid": "eef343b30d75284d0c0533fe"
+    },
+    "ciudad": "Ciudad de México",
+    "pais": "México",
+    "capacidad": 23673,
+    "infraestructura": "Baja",
+    "clima": "Cálido"
+  },
+  {
+    "_id": {
+      "$oid": "eae2de48390bc37857190597"
+    },
+    "ciudad": "Buenos Aires",
+    "pais": "Argentina",
+    "capacidad": 49963,
+    "infraestructura": "Alta",
+    "clima": "Frío"
+  }
+]

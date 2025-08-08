@@ -1,0 +1,197 @@
+[
+  {
+    "_id": {
+      "$oid": "2ffc943f50ad8cd48c5fd40e"
+    },
+    "atleta_id": {
+      "$oid": "8a876a1c332e05f573fbf433"
+    },
+    "evento_id": {
+      "$oid": "520939ea9757c183385eb76b"
+    },
+    "tipo": "Oro",
+    "marca": 74.86
+  },
+  {
+    "_id": {
+      "$oid": "be79666aeaae950b35429233"
+    },
+    "atleta_id": {
+      "$oid": "8ed0b2070bde0b6c2fe9d2fc"
+    },
+    "evento_id": {
+      "$oid": "4c5a3152645d423f1ad7487a"
+    },
+    "tipo": "Bronce",
+    "marca": 83.76
+  },
+  {
+    "_id": {
+      "$oid": "b875c71c3972a50838346524"
+    },
+    "atleta_id": {
+      "$oid": "e420b2e78ced4925b85b4c33"
+    },
+    "evento_id": {
+      "$oid": "98ccdf6856bd17348e6e0eeb"
+    },
+    "tipo": "Bronce",
+    "marca": 67.13
+  },
+  {
+    "_id": {
+      "$oid": "eb8e7a707926318a0f0e6eb6"
+    },
+    "atleta_id": {
+      "$oid": "2cd08e3525b28f95aa3ecb4c"
+    },
+    "evento_id": {
+      "$oid": "1e389691d1d232d2f4da9e18"
+    },
+    "tipo": "Plata",
+    "marca": 41.91
+  },
+  {
+    "_id": {
+      "$oid": "58f8dd0336a607ffad8e581a"
+    },
+    "atleta_id": {
+      "$oid": "a9806020441d340e754b6407"
+    },
+    "evento_id": {
+      "$oid": "0d0797c541aefece9fc3c46a"
+    },
+    "tipo": "Bronce",
+    "marca": 60.95
+  },
+  {
+    "_id": {
+      "$oid": "cc9cf087828bff1f5f1d7b4d"
+    },
+    "atleta_id": {
+      "$oid": "07eea351c52baced404bfd3f"
+    },
+    "evento_id": {
+      "$oid": "6db5f1732d2a3038c6b10138"
+    },
+    "tipo": "Bronce",
+    "marca": 90.53
+  },
+  {
+    "_id": {
+      "$oid": "cb9917536280cfc4ef2dfe9a"
+    },
+    "atleta_id": {
+      "$oid": "a9806020441d340e754b6407"
+    },
+    "evento_id": {
+      "$oid": "f816809f44b85f5d501a246e"
+    },
+    "tipo": "Oro",
+    "marca": 19.73
+  },
+  {
+    "_id": {
+      "$oid": "21035d3aa107ae7b2a3a2a2b"
+    },
+    "atleta_id": {
+      "$oid": "ec1138c4ba2bab980cdba0a1"
+    },
+    "evento_id": {
+      "$oid": "f816809f44b85f5d501a246e"
+    },
+    "tipo": "Oro",
+    "marca": 73.43
+  },
+  {
+    "_id": {
+      "$oid": "6d139fbf147a0666e3e8b643"
+    },
+    "atleta_id": {
+      "$oid": "a9806020441d340e754b6407"
+    },
+    "evento_id": {
+      "$oid": "8134b584eb531a600ea37944"
+    },
+    "tipo": "Oro",
+    "marca": 51.17
+  },
+  {
+    "_id": {
+      "$oid": "62514092ea5a6bc7baac2be4"
+    },
+    "atleta_id": {
+      "$oid": "f1f00bd9cc4acb6340303a8e"
+    },
+    "evento_id": {
+      "$oid": "8134b584eb531a600ea37944"
+    },
+    "tipo": "Bronce",
+    "marca": 71.27
+  },
+  {
+    "_id": {
+      "$oid": "68b2e33d9e1fb5f77a9e475d"
+    },
+    "atleta_id": {
+      "$oid": "e420b2e78ced4925b85b4c33"
+    },
+    "evento_id": {
+      "$oid": "c3f8cedc657461b414903a85"
+    },
+    "tipo": "Plata",
+    "marca": 15.02
+  },
+  {
+    "_id": {
+      "$oid": "c47d17cc7a51efca86912f40"
+    },
+    "atleta_id": {
+      "$oid": "ce2333dd5dfcd9afa759c45f"
+    },
+    "evento_id": {
+      "$oid": "4c5a3152645d423f1ad7487a"
+    },
+    "tipo": "Plata",
+    "marca": 71.39
+  },
+  {
+    "_id": {
+      "$oid": "2d04c4f7622fc51a17a907e1"
+    },
+    "atleta_id": {
+      "$oid": "ec1138c4ba2bab980cdba0a1"
+    },
+    "evento_id": {
+      "$oid": "8a1da8053703f46665efd7c4"
+    },
+    "tipo": "Bronce",
+    "marca": 67.98
+  },
+  {
+    "_id": {
+      "$oid": "fd8676fdd6bd879474e265ce"
+    },
+    "atleta_id": {
+      "$oid": "07eea351c52baced404bfd3f"
+    },
+    "evento_id": {
+      "$oid": "c3f8cedc657461b414903a85"
+    },
+    "tipo": "Oro",
+    "marca": 63.83
+  },
+  {
+    "_id": {
+      "$oid": "250989769573da5bd46b2cd9"
+    },
+    "atleta_id": {
+      "$oid": "a9806020441d340e754b6407"
+    },
+    "evento_id": {
+      "$oid": "520939ea9757c183385eb76b"
+    },
+    "tipo": "Oro",
+    "marca": 40.75
+  }
+]
